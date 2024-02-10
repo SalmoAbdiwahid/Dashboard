@@ -1,0 +1,13 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.sidebar{
+    background-color: #13152C;
+}
+ .i{
+    background-color: lightgrey;
+}
+.active:hover{
+    background-color: none;
+
+}
